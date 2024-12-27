@@ -11,7 +11,7 @@ This project is a website for Zidio Company. The website is designed to provide 
 ## How to Open
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Tanmay1906/Website-Creation.git
+    git clone https://github.com/AyushRana13/Website-Creation.git
     ```
 2. Install the dependencies:
     ```bash
